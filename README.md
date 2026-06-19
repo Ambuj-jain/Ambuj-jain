@@ -13,23 +13,10 @@
 
 💼 System Engineer with expertise in:
 
-- Windows Server Administration
-- Active Directory (AD DS)
-- DNS & DHCP Management
-- Group Policy (GPO)
-- Microsoft Azure Administration
-- VMware Virtualization
-- PowerShell Automation
-- Backup & Disaster Recovery
-- Network Infrastructure Management
-- IT Operations & Support
+- Windows Server Administration #Active Directory (AD DS) #DNS & DHCP Management #Group Policy (GPO) #Microsoft Azure Administration #VMware Virtualization #PowerShell Automation #Backup & Disaster Recovery #Network Infrastructure Management #IT Operations & Support
 
 🎯 Currently focused on:
-- Azure Cloud Administration
-- Hybrid Infrastructure Solutions
-- Server Automation
-- Cloud Migration Projects
-- Enterprise IT Infrastructure
+- Azure Cloud Administration # Hybrid Infrastructure Solutions # Server Automation # Cloud Migration Projects # Enterprise IT Infrastructure
 
 ---
 
