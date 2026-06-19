@@ -134,13 +134,6 @@
 - File Server Management
 - Failover Concepts
 
-## 🔄 VMware Virtualization Lab
-
-- ESXi Deployment
-- VM Provisioning
-- Snapshot Management
-- Resource Optimization
-
 ---
 
 # 📊 GitHub Analytics
