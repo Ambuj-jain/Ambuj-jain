@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ambuj Jain
 
-### System Engineer | Wintel Administrator | Azure Administrator | IT Infrastructure Specialist
+### System Engineer | Azure Administrator | IT Infrastructure
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Azure+Administrator+(AZ-104);Wintel+Engineer;Windows+Server+Administrator;Active+Directory+Engineer;VMware+Administrator;IT+Infrastructure+Specialist&center=true&width=850&height=50">
@@ -14,25 +14,11 @@ Experienced System Engineer with expertise in designing, deploying, and managing
 
 ### Core Expertise
 
-* Microsoft Azure Administration (AZ-104)
-* Windows Server 2016/2019/2022
-* Active Directory Domain Services (AD DS)
-* DNS & DHCP Administration
-* Group Policy Management (GPO)
-* VMware ESXi & vCenter
-* Hyper-V Virtualization
-* PowerShell Automation
-* Backup & Disaster Recovery
-* IT Infrastructure Management
-* Technical Support & Troubleshooting
+* Microsoft Azure Administration (AZ-104) # Windows Server 2016/2019/2022 # Active Directory Domain Services (AD DS) # DNS & DHCP Administration # Group Policy Management (GPO) # VMware ESXi & vCenter # Hyper-V Virtualization # PowerShell Automation # Backup & Disaster Recovery # IT Infrastructure Management # Technical Support & Troubleshooting
 
 ### Current Focus
 
-* Azure Cloud Administration
-* Hybrid Infrastructure Solutions
-* Infrastructure Automation
-* Cloud Migration Projects
-* Enterprise Server Management
+* Azure Cloud Administration # Hybrid Infrastructure Solutions # Infrastructure Automation # Cloud Migration Projects # Server Management
 
 ---
 
