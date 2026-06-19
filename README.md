@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **Microsoft Azure 104,MCSA 2019,2022,Kubernates**
 
 - 👨‍💻 All of My project [https://trumage.com/](https://trumage.com/)
+  
+- 👨‍💻 All of My project [https://trimage.com/](https://trimage.com/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/](https://www.linkedin.com/)
 
