@@ -4,7 +4,7 @@
 <h3 align="center">System Engineer | Wintel Administrator | Azure Administrator | IT Infrastructure Specialist</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Azure+Administrator+(AZ-104);Wintel+Engineer;Windows+Server+Administrator;Active+Directory+Specialist;VMware+Administrator;PowerShell+Automation+Engineer&center=true&width=800&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Azure+Administrator+(AZ-104);Wintel+Engineer;Windows+Server+Administrator;Active+Directory+Engineer;VMware+Administrator;&center=true&width=800&height=50">
 </p>
 
 ---
