@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00C6FF&height=200&section=header&text=Ambuj%20Jain&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
 # Hi 👋, I'm Ambuj Jain 
 
 ### System Engineer | Azure Administrator | IT Infrastructure 
