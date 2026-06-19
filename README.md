@@ -18,6 +18,12 @@
 🎯 Currently focused on:
 - Azure Cloud Administration # Hybrid Infrastructure Solutions # Server Automation # Cloud Migration Projects # Enterprise IT Infrastructure
 
+🎯 Project:
+
+- 👨‍💻 Project-1 [https://trumage.com/](https://trumage.com/)
+  
+- 👨‍💻 Project-2 [https://trimageindia.com/](https://trimageindia.com/)
+
 ---
 
 ## 🌐 Connect With Me
@@ -164,14 +170,6 @@
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ambuj-jain&theme=tokyo-night"/>
-</p>
-
----
-
 # 🎯 ATS Keywords
 
 Azure Administrator • Azure Virtual Machines • Azure Networking • Azure Load Balancer • Azure Monitor • Windows Server 2019 • Active Directory • DNS • DHCP • Group Policy • VMware • Hyper-V • PowerShell • Server Administration • IT Infrastructure • Wintel Engineer • Technical Support • System Administration • Cloud Computing • Virtualization • Disaster Recovery • Backup Solutions • Infrastructure Management
@@ -181,9 +179,4 @@ Azure Administrator • Azure Virtual Machines • Azure Networking • Azure Lo
 ## 💡 Quote
 
 > "Technology is best when it brings people together."
-
----
-- 👨‍💻 Project-1 [https://trumage.com/](https://trumage.com/)
-  
-- 👨‍💻 Project-2 [https://trimageindia.com/](https://trimageindia.com/)
   
