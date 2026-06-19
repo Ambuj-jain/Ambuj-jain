@@ -85,13 +85,20 @@
 
 # 📜 Certifications
 
-🏅 Microsoft Azure Administrator (AZ-104)
+🏅 CompTia A+
 
-🏅 Windows Server Administration
+🏅 CompTia N+
 
-🏅 Active Directory & Group Policy Management
+🏅 CCNA 200-301
+
+🏅 CISCO Network Essential
 
 🏅 VMware Virtualization
+
+🏅 MCSA - 2019.2022
+
+🏅 Microsoft Azure 104
+
 
 ---
 
