@@ -1,3 +1,9 @@
+# Hi 👋, I'm Ambuj Jain 
+
+### System Engineer | Azure Administrator | IT Infrastructure 
+
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Azure+Administrator+(AZ-104);Wintel+Engineer;Windows+Server+Administrator;Active+Directory+Engineer;VMware+Administrator;IT+Infrastructure+Specialist&center=true&width=850&height=50"> </p> ---
+
 ## 🚀 About Me
 
 Experienced System Engineer with expertise in designing, deploying, and managing enterprise IT infrastructure. Skilled in Microsoft Azure, Windows Server Administration, Active Directory, VMware Virtualization, and PowerShell Automation.
