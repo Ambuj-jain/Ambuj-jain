@@ -14,11 +14,18 @@ Experienced System Engineer with expertise in designing, deploying, and managing
 
 ### Core Expertise
 
-* Microsoft Azure Administration (AZ-104) # Windows Server 2016/2019/2022 # Active Directory Domain Services (AD DS) # DNS & DHCP Administration # Group Policy Management (GPO) # VMware ESXi & vCenter # Hyper-V Virtualization # PowerShell Automation # Backup & Disaster Recovery # IT Infrastructure Management # Technical Support & Troubleshooting
+# Microsoft Azure Administration (AZ-104) # Windows Server 2016/2019/2022 # Active Directory Domain Services (AD DS) # DNS & DHCP Administration # Group Policy Management (GPO) # VMware ESXi & vCenter # Hyper-V Virtualization # PowerShell Automation # Backup & Disaster Recovery # IT Infrastructure Management # Technical Support & Troubleshooting
 
 ### Current Focus
 
-* Azure Cloud Administration # Hybrid Infrastructure Solutions # Infrastructure Automation # Cloud Migration Projects # Server Management
+# Azure Cloud Administration # Hybrid Infrastructure Solutions # Infrastructure Automation # Cloud Migration Projects # Server Management
+
+---
+
+## 🎯 Professional Keywords
+
+Azure Administrator • Windows Server Administrator • Wintel Engineer • Active Directory • Group Policy • DNS • DHCP • VMware • Hyper-V • PowerShell • Azure Networking • Azure Monitor • Azure Backup • IT Infrastructure • Technical Support • Cloud Computing • Virtualization • Backup & Disaster Recovery • Infrastructure Management • System Administration
+
 
 ---
 
@@ -153,12 +160,6 @@ Experienced System Engineer with expertise in designing, deploying, and managing
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ambuj-jain&theme=tokyonight"/>
 </p>
-
----
-
-## 🎯 Professional Keywords
-
-Azure Administrator • Windows Server Administrator • Wintel Engineer • Active Directory • Group Policy • DNS • DHCP • VMware • Hyper-V • PowerShell • Azure Networking • Azure Monitor • Azure Backup • IT Infrastructure • Technical Support • Cloud Computing • Virtualization • Backup & Disaster Recovery • Infrastructure Management • System Administration
 
 ---
 
