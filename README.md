@@ -53,9 +53,9 @@
 ### 🖥️ Operating Systems
 
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Windows Client OS](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Linux OS](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Mac OS](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Client OS](https://img.shields.io/badge/Windows_client_os?style=for-the-badge&logo=windows&logoColor=white)
+![Linux OS](https://img.shields.io/badge/Linux_Os?style=for-the-badge&logo=windows&logoColor=white)
+![Mac OS](https://img.shields.io/badge/Mac_os?style=for-the-badge&logo=windows&logoColor=white)
 
 ### 🔐 Identity & Access Management
 
