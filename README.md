@@ -5,7 +5,7 @@
 
 ### System Engineer | Azure Administrator | IT Infrastructure 
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Azure+Administrator+(AZ-104);Wintel+Engineer;Windows+Server+Administrator;Active+Directory+Engineer;VMware+Administrator;IT+Infrastructure+Specialist&center=true&width=850&height=50"> </p> ---
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Azure+Administrator+(AZ-104);System+Engineer;Windows+Server+Administrator;Active+Directory+Engineer;VMware+Administrator;IT+Administrator&center=true&width=850&height=50"> </p> ---
 
 ## 🚀 About Me
 
@@ -74,6 +74,23 @@ Azure Administrator • Windows Server Administrator • Wintel Engineer • Act
 * https://trumage.com
 * https://trimageindia.com
 
+## 🏆 Certifications
+
+![Microsoft Azure Administrator](https://img.shields.io/badge/Microsoft-AZ--104-blue?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+![CCNA](https://img.shields.io/badge/Cisco-CCNA%20200--301-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-EA3C53?style=for-the-badge&logo=comptia&logoColor=white)
+
+![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-EA3C53?style=for-the-badge&logo=comptia&logoColor=white)
+
+![Cisco Network Essentials](https://img.shields.io/badge/Cisco-Network%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+![VMware](https://img.shields.io/badge/VMware-Virtualization-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
+![MCSA](https://img.shields.io/badge/MCSA-Windows%20Server-success?style=for-the-badge&logo=windows&logoColor=white)
+
+#
 ![Profile Views](https://komarev.com/ghpvc/?username=Ambuj-jain&label=Profile%20Views&color=0e75b6&style=flat)
 
 ![Followers](https://img.shields.io/github/followers/Ambuj-jain?label=Followers&style=social)
