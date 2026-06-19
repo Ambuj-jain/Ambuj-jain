@@ -12,11 +12,11 @@
 
 Experienced System Engineer with expertise in designing, deploying, and managing enterprise IT infrastructure. Skilled in Microsoft Azure, Windows Server Administration, Active Directory, VMware Virtualization, and PowerShell Automation.
 
-### Core Expertise
+## Core Expertise
 
 # Microsoft Azure Administration (AZ-104) # Windows Server 2016/2019/2022 # Active Directory Domain Services (AD DS) # DNS & DHCP Administration # Group Policy Management (GPO) # VMware ESXi & vCenter # Hyper-V Virtualization # PowerShell Automation # Backup & Disaster Recovery # IT Infrastructure Management # Technical Support & Troubleshooting
 
-### Current Focus
+## Current Focus
 
 # Azure Cloud Administration # Hybrid Infrastructure Solutions # Infrastructure Automation # Cloud Migration Projects # Server Management
 
