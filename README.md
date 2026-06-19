@@ -1,5 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00C6FF&height=200&section=header&text=Ambuj%20Jain&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
+
 # Hi 👋, I'm Ambuj Jain 
 
 ### System Engineer | Azure Administrator | IT Infrastructure 
@@ -73,4 +74,9 @@ Azure Administrator • Windows Server Administrator • Wintel Engineer • Act
 * https://trumage.com
 * https://trimageindia.com
 
+![Profile Views](https://komarev.com/ghpvc/?username=Ambuj-jain&label=Profile%20Views&color=0e75b6&style=flat)
+
+![Followers](https://img.shields.io/github/followers/Ambuj-jain?label=Followers&style=social)
+
+![Stars](https://img.shields.io/github/stars/Ambuj-jain?affiliations=OWNER&style=social)
 
