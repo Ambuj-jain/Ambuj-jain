@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of My project [https://trumage.com/](https://trumage.com/)
   
-- 👨‍💻 All of My project [https://trimageindia.com/]
+- 👨‍💻 All of My project [https://trimageindia.com/](https://trimageindia.com/)
   
 - 📝 I regularly write articles on [https://www.linkedin.com/](https://www.linkedin.com/)
 
