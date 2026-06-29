@@ -90,6 +90,19 @@ Azure Administrator • Windows Server Administrator • Wintel Engineer • Act
 
 ![MCSA](https://img.shields.io/badge/MCSA-Windows%20Server-success?style=for-the-badge&logo=windows&logoColor=white)
 
+# 🛠️ Tech Stack & Tools
+<p align="center">
+☁️ Cloud Platforms
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp" />
+🐳 DevOps & Containers
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins" />
+⚙️ CI/CD & Version Control
+<img src="https://skillicons.dev/icons?i=githubactions,git,github" />
+💻 Operating Systems & Scripting
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell" />
+🔧 Tools
+<img src="https://skillicons.dev/icons?i=postman,vscode" /> </p>
+
 #
 ![Profile Views](https://komarev.com/ghpvc/?username=Ambuj-jain&label=Profile%20Views&color=0e75b6&style=flat)
 
