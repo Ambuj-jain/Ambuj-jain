@@ -93,15 +93,13 @@ Azure Administrator • Windows Server Administrator • Wintel Engineer • Act
 # 🛠️ Tech Stack & Tools
 <p align="center">
 ☁️ Cloud Platforms
-<img src="https://skillicons.dev/icons?i=azure,aws,gcp" />
+<img src="https://skillicons.dev/icons?i=azure" />
 🐳 DevOps & Containers
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 ⚙️ CI/CD & Version Control
 <img src="https://skillicons.dev/icons?i=githubactions,git,github" />
 💻 Operating Systems & Scripting
 <img src="https://skillicons.dev/icons?i=linux,bash,powershell" />
-🔧 Tools
-<img src="https://skillicons.dev/icons?i=postman,vscode" /> </p>
 
 #
 ![Profile Views](https://komarev.com/ghpvc/?username=Ambuj-jain&label=Profile%20Views&color=0e75b6&style=flat)
